@@ -49,8 +49,8 @@ Bem-vindo! Esse é o meu espaço para projetos, experimentos e ideias.
 </div>
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=34&duration=1&pause=99999&color=A78BFA&center=true&vCenter=true&width=460&height=60&lines=ESTAT%C3%8DSTICAS&repeat=false" alt="Estatísticas"/>
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0D0D14&title_color=A78BFA&icon_color=5B2EFF&text_color=EDE9FE&ring_color=5B2EFF"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0D0D14&title_color=A78BFA&text_color=EDE9FE&langs_count=8"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=IsaBressan&show_icons=true&hide_border=true&bg_color=0D0D14&title_color=A78BFA&icon_color=5B2EFF&text_color=EDE9FE&ring_color=5B2EFF"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaBressan&layout=compact&hide_border=true&bg_color=0D0D14&title_color=A78BFA&text_color=EDE9FE&langs_count=8"/>
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaBressan&hide_border=true&background=0D0D14&ring=5B2EFF&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=EDE9FE&currStreakNum=EDE9FE&sideNums=EDE9FE&dates=7C6FA8"/>
 <br/>
