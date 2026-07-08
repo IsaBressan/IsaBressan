@@ -61,7 +61,7 @@ Bem-vindo! Esse é o meu espaço para projetos, experimentos e ideias.
 ·　　　　　✦　　　　　🦇　　　　　✦　　　　　·
 
 </div>
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=34&duration=1&pause=99999&color=A78BFA&center=true&vCenter=true&width=620&height=60&lines=APRENDIZANDO&repeat=false" alt="Aprendizando"/>
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=34&duration=1&pause=99999&color=A78BFA&center=true&vCenter=true&width=620&height=60&lines=APRENDIZADO&repeat=false" alt="Aprendizado"/>
 
 
 <i>❧ Atualmente estudando Python e SQL.</i>
