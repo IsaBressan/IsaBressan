@@ -45,7 +45,6 @@ Bem-vindo! Esse é o meu espaço para projetos, experimentos e ideias.
 <br/>
 ·　　　　　✦　　　　　☾　　　　　✦　　　　　·
 
-
 </div>
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=34&duration=1&pause=99999&color=A78BFA&center=true&vCenter=true&width=460&height=60&lines=ESTAT%C3%8DSTICAS&repeat=false" alt="Estatísticas"/>
 <div align="center">
@@ -58,6 +57,7 @@ Bem-vindo! Esse é o meu espaço para projetos, experimentos e ideias.
 </div>
 <div align="center">
 <br/>
+
 ·　　　　　✦　　　　　🦇　　　　　✦　　　　　·
 
 </div>
