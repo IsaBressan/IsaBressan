@@ -73,7 +73,7 @@ Sou uma pessoa movida pela curiosidade e pela vontade de transformar ideias em s
 
 <!-- APRENDIZADO -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Pirata+One&amp;size=35&amp;width=460&amp;height=62&amp;color=A78BFA&amp;vCenter=true&amp;duration=2200&amp;pause=700&amp;repeat=false&amp;lines=APRENDIZANDO" alt="APRENDIZANDO" width="315" />
+<img src="https://readme-typing-svg.demolab.com?font=Pirata+One&amp;size=35&amp;width=460&amp;height=62&amp;color=A78BFA&amp;vCenter=true&amp;duration=2200&amp;pause=700&amp;repeat=false&amp;lines=APRENDIZANDO" alt="APRENDIZADO" width="315" />
 
 <p align="center"><sub>☾ &nbsp; ✧ &nbsp; 🌒 &nbsp; ☆ &nbsp; 🌔 &nbsp; ✧ &nbsp; ☽</sub></p>
 
